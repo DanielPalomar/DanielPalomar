@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Jose Pe!
+# 👋 ¡Hola, soy Jose Pedemonte!
 
 Soy un estudiante apasionado por el mundo del desarrollo de software y las tecnologías web. Actualmente me estoy formando como **Desarrollador de Aplicaciones Web (DAW)**, y cada día me esfuerzo por aprender, practicar y mejorar mis habilidades para crear soluciones útiles, creativas y eficientes.
 
@@ -41,7 +41,7 @@ Aunque aún estoy dando mis primeros pasos en el desarrollo profesional, aquí t
 
 Estoy siempre dispuesto a aprender de otros y participar en nuevos proyectos. Si te interesa colaborar o simplemente saludar, puedes encontrarme por aquí:
 
-- 📧 **Correo:** jjppe12345678903@gmail.com
+- 📧 **Correo:** jjpp12345678903@gmail.com
 - 🌐 **Portafolio personal:** 
 ---
 
